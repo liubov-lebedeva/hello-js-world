@@ -1,0 +1,15 @@
+.window {
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+    max-width: 600px;
+    min-height: 400px;
+    color: white;
+}
+
+.title {
+    padding: 10px;
+    border: 2px solid darkslategray;
+    background: darkslategray;
+    border-radius: 30px;
+}
